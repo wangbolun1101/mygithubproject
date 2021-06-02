@@ -6,6 +6,7 @@ public class helloworld {
         System.out.println("111");
         System.out.println("ttt");
         System.out.println("esss");
+        System.out.println("dashadua一天");
     }
 
 }
